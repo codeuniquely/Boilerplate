@@ -1,0 +1,14 @@
+node_modules
+build
+tmp
+logs
+*.sublime-workspace
+*.sublime-project
+*.log
+*.gz
+*.zip
+*.out
+[Tt]humbs.db
+.DS_Store
+.sass-cache
+
